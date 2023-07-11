@@ -6,7 +6,7 @@ function findFactoriel(number){
 
     for(let i = 1 ; i<number+1 ; i++){
 
-        output *=i
+        output *= i
 
     }
     return output

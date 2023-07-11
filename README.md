@@ -1,1 +1,1 @@
-ı am gonna calculate the number of array, assignment for clean code
+I am gonna complete assignments about clean code
